@@ -107,23 +107,21 @@ img {
 
   /* PRIMO CONTAINER */
   .container, #why{
-   background-color: rgb(248, 167, 224);
+   background-color: rgb(217, 245, 245);
    padding: 10px 5px;
   }
 
   /* COMMON */
   img{
-    max-width: 30%;
-    height: auto;
+    height: 10vh;
   }
 
   h1{
-    font-size: 1.4em;
-    padding-bottom: 10px;
+  padding-bottom: 10px;
   }
 
   h3, div{
-    font-size: 1em;
+    font-size: 90%;
   }  
 }
 
@@ -160,8 +158,8 @@ img {
     max-width: 25%;
     height: auto;
   }
-  
+
   h3, div{
-    font-size: 1em;
+    font-size: 1.5vh;
   }
 }
